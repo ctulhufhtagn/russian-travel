@@ -1,0 +1,9 @@
+.intro__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    vertical-align: bottom;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
