@@ -19,8 +19,6 @@
     .places {
         margin: 0 24px;
         padding: 88px 0 90px;
-        /* width: 100%;
-        max-width: calc(100% - 96px); */
         max-width: 720px;
     }
 
@@ -29,10 +27,8 @@
 @media (min-width: 321px) and (max-width: 767px) {
 
     .places {
-        /* margin: 0 20px; */
         padding: 88px 0 90px;
         max-width: calc(100% - 20px);
-        /* max-width: 720px; */
     }
 
 }

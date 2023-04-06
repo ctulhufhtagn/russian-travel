@@ -5,7 +5,7 @@
     line-height: 1.20;
 }
 
-@media (min-width: 425px) and (max-width: 768px) {
+@media (min-width: 425px) and (max-width: 767px) {
 
     .lead__subtitle {
         max-width: 350px;
