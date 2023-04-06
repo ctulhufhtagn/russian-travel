@@ -1,0 +1,17 @@
+.lead {
+    padding-top: 56px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 984px;
+    text-align: center;
+}
+
+@media (max-width: 1279px) {
+
+    .lead {
+        padding-top: 48px;
+        max-width: 928px;
+    }
+
+}
+

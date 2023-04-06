@@ -1,0 +1,22 @@
+.places__paragraph-wrapper {
+    display: flex;
+    flex-direction: column;
+    row-gap: 26px;
+    grid-area: places__paragraph-wrapper;
+}
+
+@media (max-width: 1024px) {
+
+    .places__paragraph-wrapper {
+        row-gap: 27px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    
+    .places__paragraph-wrapper {
+        row-gap: 25px;
+    }
+
+}

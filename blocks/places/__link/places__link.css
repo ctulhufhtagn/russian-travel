@@ -1,0 +1,11 @@
+.places__link {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    color: #fff;
+    transition: opacity .2s linear;
+    line-height: 1.22;
+}
+
+.places__link:hover {
+    opacity: .8;
+}
